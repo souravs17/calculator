@@ -1,4 +1,18 @@
-# Getting Started with Create React App
+### Application Deployed to -
+
+This project is deployed at https://calculatordemostration.herokuapp.com/
+
+### Run the application from local with the following commands
+
+# install all the dependencies from package.json
+
+npm install
+
+# run the application in localhost
+
+npm start
+
+### Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
