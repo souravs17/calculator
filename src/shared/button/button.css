@@ -1,0 +1,16 @@
+.button {
+  border-radius: 5px; /* rounded corners */
+  cursor: pointer; /* make it look clickable */
+}
+
+.dark {
+  border: 1px solid #fff; /* black border */
+  background: #666;
+  color: #fff;
+}
+
+.light {
+  border: 1px solid #000; /* black border */
+  background: #f0f0f0;
+  color: #000;
+}
